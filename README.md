@@ -1,4 +1,4 @@
-# cra-template-red-hot-craco
+# cra-template-red-hot-craco-typescript
 
 This is a CRACO typescript template for [Create React App](https://github.com/facebook/create-react-app).
 

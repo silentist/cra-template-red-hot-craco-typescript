@@ -7,11 +7,11 @@ To use this template, add `--template red-hot-craco-typescript` when creating a 
 For example:
 
 ```sh
-npx create-react-app my-app --template red-hot-craco
+npx create-react-app my-app --template red-hot-craco-typescript
 
 # or
 
-yarn create react-app my-app --template red-hot-craco
+yarn create react-app my-app --template red-hot-craco-typescript
 ```
 
 For more information, please refer to:

@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-red-hot-craco",
+  "name": "@silentist/cra-template-red-hot-craco-typescript",
   "version": "0.1.0",
   "keywords": [
     "react",
@@ -14,6 +14,12 @@
     "eslint",
     "prettier"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@silentist" },
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com:silentist/cra-template-red-hot-craco-typescript.git",
+    "directory": "cra-template-red-hot-craco-typescript"
+  },
   "private": true,
   "scripts": {
     "start": "craco start",

@@ -20,7 +20,6 @@
     "url": "ssh://git@github.com:silentist/cra-template-red-hot-craco-typescript.git",
     "directory": "cra-template-red-hot-craco-typescript"
   },
-  "private": true,
   "scripts": {
     "start": "craco start",
     "build": "craco build",
